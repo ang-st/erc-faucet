@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "api-faucet-executor",
+    "name": "api-faucet",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "zlf635s5q7",
+    "module": "app"
+  }
+}
